@@ -1,5 +1,11 @@
 # Guess-the-movie-Game
 Its a small game in which some movies are taken from IMDB and the letters of the name are hidden.The players have to guess the letter and eventually guess the name
+
+
+
+
+
+
 import random
 movies=['raaz','krish','bahubali','ddlj','panipat','dangal','ms dhoni','three tdiots','taare zameen par','zannat']
 def create_question(movie):
